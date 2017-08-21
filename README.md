@@ -1,5 +1,5 @@
 # mergeTRA
-R functions to read and merge translocations (TRA) called by different structural variations caller.
+R functions to read and merge translocations (TRA) called by different structural variation callers.
 
 Inspired by [intansv](http://venyao.github.io/intansv/).
 
